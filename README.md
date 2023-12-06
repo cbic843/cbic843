@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cbic843
-- 👀 I’m interested in statistics, geographical information systems, raster data and programming
+- 👀 I’m interested in statistics, geographical information systems, raster data and coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on Qgis interface
 - 📫 You can reach me through my web site https://www.cbic.ch. Thanks
