@@ -2,7 +2,7 @@
 - 👀 I’m interested in statistics, geographical information systems, raster data and programming
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on Qgis interface
-- 📫 How to reach me ...
+- 📫 You can reach me through my web site https://www.cbic.ch. Thanks
 
 <!---
 cbic843/cbic843 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
